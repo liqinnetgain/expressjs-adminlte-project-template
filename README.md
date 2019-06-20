@@ -11,7 +11,7 @@ This project is based on [react-starter-kit](https://github.com/kriasoft/react-s
 
 clone from github
 ```
-git clone https://github.com/imhazige/expressjs-adminlte-project-template.git
+git clone https://github.com/liqinnetgain/expressjs-adminlte-project-template.git
 ```
 install yarn if need `npm install --global yarn`
 
